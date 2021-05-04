@@ -9,7 +9,7 @@ module.exports = {
     },
     extend: {
       fontFamily:{
-        custom:['Montserrat'],
+        'custom':['Padauk'],
       },
       colors:{
         gray: {
